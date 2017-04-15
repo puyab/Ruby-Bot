@@ -6,8 +6,8 @@
   "author": "Puya",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.x.x",
     "body-parser": "^1.x.x",
+    "express": "^4.15.2",
     "request": "2.56.x"
   }
 }
